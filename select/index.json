@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オヒトリサマ",
+  "base_artist": "名取さな",
+  "createdAt": "2025-12-26T10:00:11.771913Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オヒトリサマ",
+      "artist": "名取さな",
+      "has_synced": false,
+      "path": "select/pl_01_オヒトリサマ_名取さな.txt"
+    }
+  ]
+}
